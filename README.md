@@ -31,13 +31,6 @@ I’m an aspiring **Data Analyst / Data Engineer** with 5+ years of experience i
 * Timeseries Data manipulation
 * Regular Expressions
 
-### Agricultural Operations
-
-* Livestock & crop production
-* Operational data tracking
-* Resource planning & cost analysis
-* Team coordination on large-scale farms
-
 ---
 
 ## 📚 Currently Learning
