@@ -44,7 +44,7 @@ I’m an aspiring **Data Analyst / Data Engineer** with 5+ years of experience i
 
 ## 🔗 Connect With Me
 
-📧 Email: martinezequielmacchi@gmail.com
+📧 Email: [Email: martinezequielmacchi@gmail.com](mailto:martinezequielmacchi@gmail.com)
 
 💼 LinkedIn: [linkedin.com/in/martinezequielmacchi](https://www.linkedin.com/in/martinezequielmacchi)
 
