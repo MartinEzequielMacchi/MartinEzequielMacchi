@@ -1,16 +1,58 @@
-## Hi there 👋
+# 👋🏼 Hello, I'm Martin
 
-<!--
-**MartinEzequielMacchi/MartinEzequielMacchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an aspiring **Data Analyst / Data Engineer** with 5+ years of experience in **livestock and crop production**. After working in large-scale farm operations and coordinating teams, I’m now transitioning into the data world to bring **precision, structure, and efficiency** to real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 What You’ll Find Here
+
+* Python & SQL data analysis projects
+* Exploratory Data Analysis (EDA)
+* Data cleaning and preprocessing workflows
+* Power BI dashboards and visualizations
+* My progress as I build skills in data engineering and analytics
+
+---
+
+## 🧰 Skills & Tools
+
+### Data & Programming
+
+* Python · pandas · numpy · seaborn · matplotlib
+* SQL (PostgreSQL)
+* Power BI (reports, dashboards, DAX basics)
+* Google Sheets
+
+### Data Engineering Foundations
+
+* Data cleaning & wrangling
+* File handling and automation
+* Relational data modeling
+* Timeseries Data manipulation
+* Regular Expressions
+
+### Agricultural Operations
+
+* Livestock & crop production
+* Operational data tracking
+* Resource planning & cost analysis
+* Team coordination on large-scale farms
+
+---
+
+## 📚 Currently Learning
+
+* Advanced SQL for analytics
+* Power BI visualization and Dashboarding
+* Python Data Engineering
+* Data engineering best practices
+
+---
+
+## 🔗 Connect With Me
+
+📧 Email: martinezequielmacchi@gmail.com
+
+💼 LinkedIn: linkedin.com/in/martinezequielmacchi
+
+Let’s connect and build something great together!
