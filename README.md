@@ -14,7 +14,7 @@ I’m an aspiring **Data Analyst / Data Engineer** with 5+ years of experience i
 
 ---
 
-## 🧰 Skills & Tools
+## 🧰📈 Skills & Tools
 
 ### Data & Programming
 
@@ -33,7 +33,7 @@ I’m an aspiring **Data Analyst / Data Engineer** with 5+ years of experience i
 
 ---
 
-## 📚 Currently Learning
+## 📚🌱 Currently Learning
 
 * Advanced SQL for analytics
 * Power BI visualization and Dashboarding
