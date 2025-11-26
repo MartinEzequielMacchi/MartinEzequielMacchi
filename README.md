@@ -38,7 +38,6 @@ I’m an aspiring **Data Analyst / Data Engineer** with 5+ years of experience i
 * Advanced SQL for analytics
 * Power BI visualization and Dashboarding
 * Python Data Engineering
-* Data engineering best practices
 
 ---
 
